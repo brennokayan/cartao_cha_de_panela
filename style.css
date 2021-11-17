@@ -14,23 +14,32 @@
 }
 .meio{
     border: 3.8px solid #000;
-    height: 90vh;
-    width: 90vw;
+    height: 70vh;
+    width: 60vw;
     display: flex;
     justify-content: start;
     align-items: center;
     flex-direction: column;
-    padding-top: 5%;
+    padding-top: 2%;
 }
 .texto1{
     text-align: center;
     
 }
 .texto1 h1{
-    font-size: 62px;
+    font-size: 72px;
 
 }
 .texto1 h2{
+    font-size: 58px;
+    letter-spacing: 0.1em;
+
+}
+.texto1 h3{
+    font-size: 62px;
+
+}
+.texto1 h4{
     font-size: 48px;
 
 }
@@ -46,14 +55,14 @@
     align-items: flex-end;
 }
 .texto2 h2{
-    font-size: 48px;
+    font-size: 68px;
     margin: 0px 10px;
 
 }
 .texto2 img{
     margin-bottom:8px;
-    height: 35px;
-    width: 35px;
+    height: 55px;
+    width: 55px;
 }
 
 
