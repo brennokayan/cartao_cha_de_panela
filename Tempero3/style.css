@@ -15,7 +15,7 @@
 }
 .meio{
     border: 3.8px solid #000;
-    height: 70vh;
+    height: auto;
     width: 90vw;
     display: flex;
     justify-content: start;
@@ -57,13 +57,19 @@
     align-items: flex-end;
 }
 .texto2 h2{
-    font-size: 68px;
+    font-size: 48px;
     margin: 0px 10px;
 
 }
-.texto2 img{
-    margin-bottom:8px;
-    height: 55px;
-    width: 55px;
+.texto3{
+    
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-justify: distribute;
+    height: 100%;
+    width: 95%;
 }
-
+.texto3 p{
+    font-size: 24px;
+}
